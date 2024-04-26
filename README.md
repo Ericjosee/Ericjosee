@@ -3,7 +3,7 @@
 <h1>
     <a href="https://Ericjosee.github.io/">
      <img align="center" alt="Logo Eric Jose" width="36px" src="https://th.bing.com/th/id/R.9596db439ab39a11bcaa7bdc126407a3?rik=AgbEz%2b8MTWejew&riu=http%3a%2f%2ftsnimages.tsn.ca%2fImageProvider%2fTeamLogo%3fseoId%3dmemphis-grizzlies%26width%3d620%26height%3d620&ehk=EFeNjiQcWmCBoZW5oo%2bxYJive8TnIaFijTSHB5k%2fH9c%3d&risl=&pid=ImgRaw&r=0"></a>
-    <span>Erijosee</span>
+    <span>Ericjosee</span>
 </h1>
 
 <p align="justify">I'm a 19-year-old tech enthusiast from Barreiras, Bahia, Brazil. I'm studying System Analysis and Development, aiming to become a skilled web and game developer.
