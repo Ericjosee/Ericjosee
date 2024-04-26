@@ -3,7 +3,7 @@
 <h1>
     <a href="https://Ericjosee.github.io/">
      <img align="center" alt="Logo Eric Jose" width="36px" src="https://th.bing.com/th/id/R.9596db439ab39a11bcaa7bdc126407a3?rik=AgbEz%2b8MTWejew&riu=http%3a%2f%2ftsnimages.tsn.ca%2fImageProvider%2fTeamLogo%3fseoId%3dmemphis-grizzlies%26width%3d620%26height%3d620&ehk=EFeNjiQcWmCBoZW5oo%2bxYJive8TnIaFijTSHB5k%2fH9c%3d&risl=&pid=ImgRaw&r=0"></a>
-    <span>Ericjosee</span>
+    <span>Eric Jose</span>
 </h1>
 
 <p align="justify">I'm a 19-year-old tech enthusiast from Barreiras, Bahia, Brazil. I'm studying System Analysis and Development, aiming to become a skilled web and game developer.
@@ -28,9 +28,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericjosee&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 Feel free to check out my repositories and connect with me for collaborations or tech chats!
-
-## My streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ericjosee&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ericjoseee&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/Ericjosee/github-readme-stats)-->
 <br>
