@@ -6,7 +6,7 @@
     <span>Ericjosee</span>
 </h1>
 
-<p align="justify">I'm a 19-year-old tech enthusiast from Barreiras, Bahia, Brazil. I'm studying System Analysis and Development, aiming to become a skilled web and game developer.
+<p align="justify">I'm a 20-year-old tech enthusiast from Barreiras, Bahia, Brazil. I'm studying System Analysis and Development, aiming to become a skilled web and game developer.
 <br></p>
 
  Interests ✨
